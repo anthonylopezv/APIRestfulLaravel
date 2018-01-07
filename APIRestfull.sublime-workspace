@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cod_c",
+				"cod_ciclo"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"conte",
+				"content\tTag"
+			],
+			[
+				"nomb",
+				"nombreU"
+			],
+			[
+				"nombre",
+				"nombre"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"id",
+				"id_alumno"
+			],
+			[
+				"id_",
+				"id_usuario"
+			],
+			[
+				"session_de",
+				"session_destroy〔function〕"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"resu",
+				"$resultado〔variable〕"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"ad",
+				"admin.php"
+			],
+			[
+				"_",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"pa",
+				"$password_encriptada〔variable〕"
+			],
+			[
+				"hea",
+				"header〔function〕"
+			],
+			[
+				"iss",
+				"isset〔function〕"
+			],
+			[
+				"sessi",
+				"session_start〔function〕"
+			],
+			[
+				"incl",
+				"include〔function〕"
+			],
+			[
+				"pas",
+				"$password〔variable〕"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"sql",
+				"$sqlUsuario〔variable〕"
+			],
+			[
+				"re",
+				"$resultadoUsuario〔variable〕"
+			],
+			[
+				"cons",
+				"$consulta2〔variable〕"
+			],
+			[
+				"mysqli_",
+				"mysql_insert_id"
+			],
+			[
+				"insert_i",
+				"mysql_insert_id"
+			],
+			[
+				"res",
+				"$resultadoAlumno〔variable〕"
+			],
+			[
+				"sqlu",
+				"$sqlusuario〔variable〕"
+			],
+			[
+				"tipo",
+				"tipouser"
+			],
+			[
+				"ida",
+				"$idalumno〔variable〕"
+			],
+			[
+				"co",
+				"$contraseña_encriptada〔variable〕"
+			],
+			[
+				"es",
+				"$escuela〔variable〕"
+			],
+			[
+				"tel",
+				"$tel〔variable〕"
+			],
+			[
+				"reg",
+				"registroUsuario.php"
+			],
+			[
+				"usu",
+				"$usuario〔variable〕"
+			],
+			[
+				"contra",
+				"$contraseña〔variable〕"
+			],
+			[
+				"contr",
+				"$contraseña〔variable〕"
+			],
+			[
+				"p",
+				"pass"
+			],
+			[
+				"cor",
+				"correo"
+			],
+			[
+				"top",
+				"tipo_user"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"req",
+				"require_once〔function〕"
+			],
+			[
+				"A",
+				"action\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"el",
+				"$eliminarAsignatura〔variable〕"
+			],
+			[
+				"edi",
+				"editarAsignatura.php"
+			],
+			[
+				"ine",
+				"index.php"
+			],
+			[
+				"mo",
+				"$modificado〔variable〕"
+			],
+			[
+				"fecth_as",
+				"db2_fetch_assoc"
+			],
+			[
+				"cone",
+				"$conexion〔variable〕"
+			],
+			[
+				"asi",
+				"asignatura"
+			],
+			[
+				"cod",
+				"cod_asignatura"
+			],
+			[
+				"asig",
+				"asignaturas"
+			],
+			[
+				"as",
+				"asignatura"
+			],
+			[
+				"mysqli",
+				"mysqli_connect"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 512,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/A/curso_laravel/APIRestfull",
+		"/A/curso_laravel/APIRestfull/routes"
+	],
+	"file_history":
+	[
+		"/A/curso_laravel/APIRestfull/app/Buyer.php",
+		"/A/curso_laravel/APIRestfull/app/Seller.php",
+		"/A/curso_laravel/APIRestfull/routes/api.php",
+		"/A/curso_laravel/APIRestfull/app/Providers/RouteServiceProvider.php",
+		"/A/curso_laravel/APIRestfull/routes/web.php",
+		"/A/curso_laravel/APIRestfull/.env",
+		"/C/Users/Lopez/AppData/Roaming/Sublime Text 3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/Lopez/AppData/Roaming/Sublime Text 3/Packages/User/PHP Companion.sublime-settings",
+		"/A/curso_laravel/APIRestfull/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/A/curso_laravel/APIRestfull/Homestead.yaml",
+		"/C/Users/Lopez/Desktop/solucionParcialBDII.sql",
+		"/C/xampp/htdocs/proyectoBDII/zoo-fisi/vistas/tipoTrabajador-add - copia.php",
+		"/C/xampp/htdocs/proyectoBDII/zoo-fisi/modelos/UsuarioModel.php",
+		"/C/xampp/htdocs/proyectoBDII/zoo-fisi/vistas/itinerario.php",
+		"/C/xampp/htdocs/proyectoBDII/zoo-fisi/vistas/tipoTrabajador-add.php",
+		"/C/xampp/htdocs/proyectoBDII/zoo-fisi/vistas/error404 - copia.php",
+		"/A/Ing_SW_2017_2/BD2/PROYECTO_FINAL/zooMySql/zoo_fisi.sql",
+		"/C/xampp/htdocs/proyectoBDII/zoo-fisi/modelos/TipoTrabajadorModel - copia.php",
+		"/C/xampp/php/php.ini-production",
+		"/A/templates-gg/Imperial/index.php",
+		"/A/templates-gg/Imperial/index.html",
+		"/A/templates-gg/Imperial/vistas/about.blade.php",
+		"/A/templates-gg/Imperial/vistas/layout.blade.php",
+		"/C/xampp/htdocs/prueba_2/.phpintel/index",
+		"/C/xampp/htdocs/prueba_2/index.blade.php",
+		"/C/xampp/htdocs/misAsignaturas/index.php",
+		"/A/misProyectodPHPLaravel/API-RESTful-con-Laravel-Guia-Definitiva-master/resources/views/auth/login.blade.php",
+		"/C/Users/Lopez/Downloads/alejandriapp.sql",
+		"/A/Ing_SW_2017_2/BD2/proyectoLogistica/5_BD_Zoologico.sql",
+		"/A/Ing_SW_2017_2/CALIDAD_SW/alejandriaApp/alejandriapp_2.sql",
+		"/C/Users/Lopez/Downloads/sistemaregistroacademico (1).sql",
+		"/C/Users/Lopez/Downloads/colors (1).xml",
+		"/A/androidloginanimation/SubmitButton-master/app/src/main/AndroidManifest.xml",
+		"/C/Users/Lopez/Downloads/login_(1).sketch",
+		"/C/Users/Lopez/pseudogram/src/App.js",
+		"/A/Ing_SW_2017_2/BD2/Querys_curso_oracle_plSql/Edad Actual.sql",
+		"/C/Users/Lopez/Downloads/sistemaregistroacademico.sql",
+		"/A/proyectos_NodeJs_Express/mi-app-crud-mysql/app.js",
+		"/C/Users/Lopez/Desktop/direccion_arduino.txt",
+		"/C/Users/Lopez/Desktop/datos del servidor.txt",
+		"/D/asco.txt",
+		"/D/base de datos II/chek para fecha de nacimiento.txt",
+		"/C/Users/Lopez/pseudogram/public/index.html",
+		"/C/Users/Lopez/pseudogram/src/App.test.js",
+		"/C/Users/Lopez/pseudogram/src/index.js",
+		"/C/Users/Lopez/.hyper.js",
+		"/C/xampp/htdocs/mi-aplicacion/routes/web.php",
+		"/C/xampp/htdocs/mi-aplicacion/resources/views/contact.blade.php",
+		"/C/xampp/htdocs/mi-aplicacion/resources/views/layout.blade.php",
+		"/A/modificaciones form.php",
+		"/C/xampp/htdocs/mi-aplicacion/config/mail.php",
+		"/C/xampp/htdocs/mi-aplicacion/.env",
+		"/C/xampp/htdocs/mi-aplicacion/routes/console.php",
+		"/C/xampp/htdocs/mi-aplicacion/resources/views/samplepost.blade.php",
+		"/C/xampp/htdocs/mi-aplicacion/resources/views/home.blade.php",
+		"/A/startbootstrap-clean-blog-gh-pages/contact.html",
+		"/C/xampp/htdocs/mi-aplicacion/resources/views/about.blade.php",
+		"/A/startbootstrap-clean-blog-gh-pages/index.html",
+		"/C/xampp/htdocs/mi-aplicacion/resources/views/mi-aplicacion.sublime-project",
+		"/C/xampp/htdocs/mi-aplicacion/public/js/clean-blog.js",
+		"/C/xampp/htdocs/laravel/routes/web.php",
+		"/C/xampp/htdocs/laravel/resources/views/samplepost.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/contact.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/about.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/home.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/layout.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/services.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/portfolio.blade.php",
+		"/C/xampp/htdocs/laravel/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/misAsignaturas/editarAsignatura.php",
+		"/C/xampp/htdocs/misAsignaturas/admin.php",
+		"/C/xampp/htdocs/misAsignaturas/listausuarios.php",
+		"/C/xampp/htdocs/misAsignaturas/menusuperior.php",
+		"/C/xampp/htdocs/misAsignaturas/conexion/configuracion.php",
+		"/C/xampp/htdocs/misAsignaturas/salir.php",
+		"/C/Users/Lopez/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/index.php",
+		"/C/xampp/htdocs/misAsignaturas/registroUsuario.php",
+		"/C/xampp/htdocs/misAsignaturas/js/jquery-3.2.1.slim.min.js",
+		"/C/xampp/htdocs/misAsignaturas/conexion/conexionbd.php",
+		"/C/Users/Lopez/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/misasignaturas.sql",
+		"/C/Users/Lopez/Downloads/misasignaturas.sql",
+		"/C/Users/Lopez/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/registrousuario.php",
+		"/C/Users/Lopez/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/misasignaturas (1).sql",
+		"/C/xampp/htdocs/misAsignaturas/login.php",
+		"/C/xampp/htdocs/misAsignaturas/piedepagina.php",
+		"/C/xampp/htdocs/misAsignaturas/eliminarAsignatura.php",
+		"/C/xampp/htdocs/misAsignaturas/pagina.html",
+		"/A/prueba.html",
+		"/C/Users/Lopez/AppData/Roaming/Sublime Text 3/Packages/SublimePHPIntel/SublimePHPIntel.sublime-settings",
+		"/C/Users/Lopez/AppData/Roaming/Sublime Text 3/Packages/User/SublimePHPIntel.sublime-settings",
+		"/A/fuentes/OFL.txt",
+		"/C/Users/Lopez/AppData/Roaming/Sublime Text 3/Packages/Seti_UI/Seti.sublime-theme",
+		"/C/Users/Lopez/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/A/Ing_SW_2017_2/BD2/phpMyAdmin/login.txt",
+		"/A/Ing_SW_2017_2/BD2/Script 01 - 03 - Bloques anonimos - Variables %TYPE.sql",
+		"/A/Ing_SW_2017_2/BD2/sisRA_PROCEDURE.sql",
+		"/A/Ing_SW_2017_2/BD2/Script 03 - 22 UTL_FILE - Prueba de creación de archivo  de texto desde Tabla.txt",
+		"/A/Ing_SW_2017_2/BD2/TALLERES ORACLE/Script 01 - 07 - Bloques anonimos - Variables %ROWTYPE.sql",
+		"/A/Ing_SW_2017_2/BD2/TALLERES ORACLE/Script 01 - 05 - Bloques anonimos - Sentencia Select Into.sql",
+		"/A/Ing_SW_2017_2/BD2/TALLERES ORACLE/Script 01 - 03 - Bloques anonimos - Variables %TYPE.sql",
+		"/A/Ing_SW_2017_2/BD2/TALLERES ORACLE/Script 01 - 01 - Bloques anonimos - Declaración de Variables.sql",
+		"/A/Ing_SW_2017_2/BD2/Script 03 - 21 UTL_FILE - Crear archivo de texto con datos de Tabla.txt",
+		"/A/Ing_SW_2017_2/BD2/HOJAS_TRABAJO_SQL/sisRA_PROCEDURE.sql",
+		"/A/Ing_SW_2017_2/BD2/HOJAS_TRABAJO_SQL/sisRA_PROCEDURE_1.sql",
+		"/A/Ing_SW_2017_2/BD2/HOJAS_TRABAJO_SQL/sisRA3.sql",
+		"/A/Ing_SW_2017_2/BD2/Querys_curso_oracle_plSql/ciclo_While.sql",
+		"/A/Ing_SW_2017_2/BD2/HOJAS_TRABAJO_SQL/sisRA_TRIGGER.sql",
+		"/C/Users/Lopez/Downloads/Psiphon Final_Mat Kairos/IMPORTANTE.txt",
+		"/A/Ing_SW_2017_2/BD2/Querys_curso_oracle_plSql/curso_pl_sql_1.sql",
+		"/A/Ing_SW_2017_2/BD2/Querys_curso_oracle_plSql/Tarea_N2.sql",
+		"/A/Ing_SW_2017_2/BD2/Querys_curso_oracle_plSql/curso_pl_sq_2l.sql",
+		"/A/Ing_SW_2017_2/BD2/Script 01 - 07 - Bloques anonimos - Variables %ROWTYPE.sql",
+		"/A/Ing_SW_2017_2/BD2/Script 03 - 16 UTL_FILE - Creación de directorios.txt",
+		"/A/Ing_SW_2017_2/BD2/Script 03 - 17 UTL_FILE - Crear archivo de texto.txt",
+		"/A/Ing_SW_2017_2/BD2/Script 03 - 18 UTL_FILE - Prueba de creación de archivos.txt",
+		"/A/Ing_SW_2017_2/BD2/Script 01 - 01 - Bloques anonimos - Declaración de Variables.sql",
+		"/C/Users/Lopez/AppData/Local/Arduino15/preferences.txt",
+		"/C/Users/Lopez/AppData/Roaming/SQL Developer/Sin Título.sql",
+		"/A/Node/01ModulosCore/00-basics.js",
+		"/A/Node/01ModulosCore/00-basis.js.txt",
+		"/A/Ing_SW_2017_2/BD2/sisRA_TRIGGER.sql",
+		"/C/Users/Lopez/Downloads/sra.sql",
+		"/C/Users/Lopez/Downloads/SYSRA.sql"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										338,
+										339
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										295,
+										296
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "APIRestfull.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 363.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
