@@ -1,10 +1,11 @@
 <?php
 
 use App\User;
-use App\Category;
-use App\Product;
-use App\Transaction;
 use App\Seller;
+use App\Product;
+use App\Category;
+use App\Transaction;
+
 
 use Faker\Generator as Faker;
 
