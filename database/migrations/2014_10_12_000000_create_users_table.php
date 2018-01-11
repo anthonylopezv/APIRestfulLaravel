@@ -21,7 +21,7 @@ class CreateUsersTable extends Migration
             $table->string('password');
             $table->rememberToken();//sirve para mantener activa la sesion de un usuario
             $table->string('verified')->default(User::USUARIO_NO_VERIFICADO);//para saber si un usuario esta o no verificado
-            $table->string('verified_token')->nullable();
+            $table->string('verification_token')->nullable();
             $table->string('admin')->default(User::USUARIO_REGULAR);
             $table->timestamps();//Fecha de creacion y actualizacion 
         });
