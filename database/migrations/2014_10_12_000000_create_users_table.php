@@ -1,5 +1,6 @@
 <?php
 
+use App\User;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
@@ -18,8 +19,11 @@ class CreateUsersTable extends Migration
             $table->string('name');
             $table->string('email')->unique();
             $table->string('password');
-            $table->rememberToken();
-            $table->timestamps();
+            $table->rememberToken();//sirve para mantener activa la sesion de un usuario
+            $table->string('verified')->default(User::USUARIO_NO_VERIFICADO);//para saber si un usuario esta o no verificado
+            $table->string('verified_token')->nullable();
+            $table->string('admin')->default(User::USUARIO_REGULAR);
+            $table->timestamps();//Fecha de creacion y actualizacion 
         });
     }
 
