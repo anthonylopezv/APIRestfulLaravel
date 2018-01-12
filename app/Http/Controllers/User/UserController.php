@@ -17,7 +17,7 @@ class UserController extends Controller
     {
         $usuarios = User::all();//Por medio del metodo all se muestra toda la lista completa de los usuarios en la BD
 
-        return $usuarios;//retornar toda la lista de usuarios
+        return response()->json(['data'=>$usuarios],200);//retornar toda la lista de usuarios
     }
 
     /**
